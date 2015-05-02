@@ -1,0 +1,13 @@
+.idea
+*.pyc
+*.bak
+*.bat
+.pydevproject
+.project
+.settings
+.directory
+*.fcgi
+.DS_Store
+db.sqlite3
+media
+private_settings.py
